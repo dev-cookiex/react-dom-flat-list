@@ -1,0 +1,6 @@
+src
+tsconfig.json
+webpack.config.ts
+node_modules
+.*
+*.log

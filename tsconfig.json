@@ -14,5 +14,5 @@
     "rootDir": "src",
     "outDir": "dist"
   },
-  "exclude": [ "web.tsx" ]
+  "exclude": [ "web.tsx", "webpack.config.ts" ]
 }
