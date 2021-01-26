@@ -1,6 +1,6 @@
 {
   "name": "@cookiex-react/dom-flat-list",
-  "version": "1.0.1-dev-ea16037.0",
+  "version": "0.0.1-dev-ea16037.0",
   "description": "app-description",
   "main": "dist/index.js",
   "license": "MIT",

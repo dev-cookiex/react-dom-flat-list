@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
-    "incremental": true,
-    "target": "ESNext",
+    "target": "ES2015",
     "module": "CommonJS",
     "lib": [ "ESNext", "DOM" ],
     "strict": true,
