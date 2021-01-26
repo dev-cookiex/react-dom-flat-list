@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "test": "jest",
-    "ts": "ts-node -r tsconfig-paths/register"
+    "ts": "ts-node -r tsconfig-paths/register",
+    "prepare": "rm -rf dist; tsc"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
