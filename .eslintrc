@@ -1,8 +1,15 @@
 {
-  "extends": "@cookiex",
+  "extends": "@cookiex-react",
+  "env": {
+    "browser": true
+  },
   "rules": {
     "consistent-return": "off",
     "default-param-last": "off",
     "no-await-in-loop": "off"
+  },
+  "globals": {
+    "JSX": "readonly",
+    "HTMLElementEventMap": "readonly"
   }
 }
